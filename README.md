@@ -12,3 +12,4 @@ Please refer to the presentation where I have detailed the mechanism, working me
 
 After successfully executing this project, I plan to design a module which will contain few basic sensor applications so that anybody can design a basic bot with multiple features by buying just a single module instead of many different modules.
 
+Please be patient. It is an ongoing project.
