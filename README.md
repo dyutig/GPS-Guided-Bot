@@ -8,8 +8,10 @@ It would have the following features:
 3. It would also be able to detect the shortest path.
 It will be controlled from an app which also will need to be designed.
 
+Each separate code have been provided. They have been derived from a different source. Each of them are explained thoroughly.
+
 Please refer to the presentation where I have detailed the mechanism, working method and the components needed.
 
 After successfully executing this project, I plan to design a module which will contain few basic sensor applications so that anybody can design a basic bot with multiple features by buying just a single module instead of many different modules.
 
-Please be patient. It is an ongoing project.
+It is an ongoing project.
